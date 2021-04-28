@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working at [Microsoft South Africa](https://www.microsoft.com/en-za/eeip/appfactory/)
 
-- 🌱 I’m currently learning **Azure Fundamentals**
-
 - 📫 Reach me at **Marcraffy@gmail.com**
 
 - ⚡ Fun fact **I play D&D with my parents and sister on the weekends**
