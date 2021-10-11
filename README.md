@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marc Raftesath</h1>
-<h3 align="center">A curious Software Developer and Mentor</h3>
+<h3 align="center">A curious Software Engineer</h3>
 
-- 🔭 I’m currently working at [Microsoft South Africa](https://www.microsoft.com/en-za/eeip/appfactory/)
+- 🔭 I’m currently working at [BBD](https://bbdsoftware.com/)
 
 - 📫 Reach me at **Marcraffy@gmail.com**
 
-- ⚡ Fun fact **I play D&D with my parents and sister on the weekends**
+- ⚡ Fun fact **I have over 1000 games on Steam and I play D&D whenever I can**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
